@@ -1,4 +1,15 @@
-Olá, eu sou a Rayla 
+Olá, eu sou a Rayla ✔
 
- <a href="https://instagram.com/raylafernand" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+♨📝📎💻🎮👾👩‍💻
+
+Para mais informações entre em contato com as redes sociais aaixo:
+
+ <a href="https://instagram.com/raylafernand" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>         <a href = "mailto: raylafernanda@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+ <img   src="https://github-readme-stats.vercel.app/api?username=raylasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" target="_blank">
+ 
+ 
+ 
+ 
+ 
  ![Snake animation](https://github.com/raylasilva/raylasilva/blob/output/github-contribution-grid-snake.svg)
