@@ -8,8 +8,14 @@ Para mais informações entre em contato com as redes sociais abaixo:
  
  <img   src="https://github-readme-stats.vercel.app/api?username=raylasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" target="_blank">
  
+
  
  
  
  
  ![Snake animation](https://github.com/raylasilva/raylasilva/blob/output/github-contribution-grid-snake.svg)
+
+  ## Total de Visitas no perfil: <br>
+ <p align = "center"> 
+   <img alingn = "center" src = "https://profile-counter.glitch.me/raylasilva/count.svg" />
+ </p>
