@@ -20,7 +20,4 @@ Tecnologias:
  
  ![Snake animation](https://github.com/raylasilva/raylasilva/blob/output/github-contribution-grid-snake.svg)
 
-  ## Total de Visitas no perfil: <br>
- <p align = "center"> 
-   <img alingn = "center" src = "https://profile-counter.glitch.me/raylasilva/count.svg" />
- </p>
+ 
