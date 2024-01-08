@@ -1,4 +1,5 @@
 Olá, eu sou a Rayla ✔
+Amo tecnologia e aspirante a dados.
 
 ♨📝📎💻🎮👾👩‍💻
 
