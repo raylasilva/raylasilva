@@ -4,7 +4,7 @@ Olá, eu sou a Rayla ✔
 Amo tecnologia e aspirante a dados.
 
 
-[Portfolio](https://sites.google.com/view/portfoliodedados-rayla/projeto-power-bi?authuser=1)
+[Portfolio](https://sites.google.com/view/portfoliodedados-rayla/projetos?authuser=1)
 
 ♨📝📎💻🎮👾👩‍💻
 
