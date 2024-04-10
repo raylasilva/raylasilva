@@ -6,7 +6,7 @@ Amo tecnologia e sou aspirante a dados.
   ♨️📝📎💻🎮👾👩‍💻
 
 ---
-<center>
+
 ### Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=raylasilva&show_icons=true&theme=dracula)
@@ -28,7 +28,7 @@ Para mais informações, entre em contato pelas redes sociais abaixo:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-</center>
+
 
 
  ![Snake animation](https://github.com/raylasilva/raylasilva/blob/output/github-contribution-grid-snake.svg)
