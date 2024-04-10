@@ -14,9 +14,9 @@ Amo tecnologia e sou aspirante a dados.
 ### Linguagens mais Usadas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylasilva&layout=compact&langs_count=7&theme=dracula"/>
----
 
-## Contatos
+
+### Contatos
 
 Para mais informações, entre em contato pelas redes sociais abaixo:
 
