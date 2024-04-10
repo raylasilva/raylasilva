@@ -13,8 +13,7 @@ Amo tecnologia e sou aspirante a dados.
 
 ### Linguagens mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raylasilva&layout=compact&langs_count=8&theme=dracula)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylasilva&layout=compact&langs_count=7&theme=dracula"/>
 ---
 
 ## Contatos
@@ -29,7 +28,7 @@ Para mais informações, entre em contato pelas redes sociais abaixo:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylasilva&layout=compact&langs_count=7&theme=dracula"/>
+
 
  ![Snake animation](https://github.com/raylasilva/raylasilva/blob/output/github-contribution-grid-snake.svg)
 
