@@ -1,24 +1,35 @@
-Olá, eu sou a Rayla ✔
+# Olá, eu sou a Rayla 👋
 
+Amo tecnologia e sou aspirante a dados.
 
-Amo tecnologia e aspirante a dados.
+- 🔗 [Portfolio](https://sites.google.com/view/portfoliodedados-rayla/projetos?authuser=1)
+- ♨️📝📎💻🎮👾👩‍💻
 
+---
 
-[Portfolio](https://sites.google.com/view/portfoliodedados-rayla/projetos?authuser=1)
+## Estatísticas do GitHub
 
-♨📝📎💻🎮👾👩‍💻
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=raylasilva&show_icons=true&theme=dracula)
 
-Para mais informações entre em contato com as redes sociais abaixo:
-<center>
-    <a href = "mailto: raylafernanda@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rayla-fernanda-405153215/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/rayla-silva-405153215/ "></a>
- </center>
- 
- 
+### Linguagens mais Usadas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylasilva&layout=compact&langs_count=7&theme=dracula"/>
- 
- 
- ![Snake animation](https://github.com/raylasilva/raylasilva/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raylasilva&layout=compact&langs_count=8&theme=dracula)
 
- 
+---
+
+## Contato
+
+Para mais informações, entre em contato pelas redes sociais abaixo:
+
+<p align="center">
+  <a href="mailto:raylafernanda@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/rayla-fernanda-405153215/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+⭐️ Template baseado no [README Profile Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
